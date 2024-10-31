@@ -141,7 +141,7 @@ if \_\_name\_\_ == "\_\_main\_\_"
     for productin products:
 
        print(f"{product\['name'\]} - ${product\['price'\]}")
-```python
+```
 **Output:**
 
 **Question 2**
