@@ -61,7 +61,7 @@ Price (either ascendingor descending)
 It helps users quicklyfind products within their budget or compare expensive and cheap products.Thiscan be implemented using sorting algorithms like Merge Sort or Quick Sort forefficient sorting, especially when the number of products is large.
 
 **Code:**
-
+```python
 def merge(arr, left\_half, right\_half):
 
     i = j = k =0
@@ -141,7 +141,7 @@ if \_\_name\_\_ == "\_\_main\_\_"
     for productin products:
 
        print(f"{product\['name'\]} - ${product\['price'\]}")
-
+```python
 **Output:**
 
 **Question 2**
